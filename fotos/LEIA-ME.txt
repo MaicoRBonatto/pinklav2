@@ -1,0 +1,5 @@
+Fotos usadas pelo site (troque pelas reais, mantendo EXATAMENTE os nomes, tudo em minusculas):
+logo.png (ja incluido)
+hero.jpg (foto do topo da pagina)
+galeria-1.jpg ate galeria-6.jpg (galeria; a secao so aparece se houver pelo menos uma foto)
+Sem a foto, o site mostra um desenho no topo e esconde a galeria.
